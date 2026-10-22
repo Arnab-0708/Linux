@@ -15,4 +15,11 @@
 15) ln <path/main file> new_file_name ---create a hard-link between main file to new_file...(if delete main file the new file will not be delete)
 16)diff <name file-1> <name file-2> --show differnt between file-1 and file-2
 #####Note----wc show diffrent multiple files and diff show diffrent only two filea
-17) 
+17)df or df -h  --- show disk file system
+###process
+18) top --- show all processes running
+19) ps --- show particular bash processs running
+20)kill -9 <process id> --- kill process
+21)free or free -h--- show disk pace
+22)vmstat -a --- show virtual memoey (-a show active and inactive memory)
+  
