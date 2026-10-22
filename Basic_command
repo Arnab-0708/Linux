@@ -22,4 +22,55 @@
 20)kill -9 <process id> --- kill process
 21)free or free -h--- show disk pace
 22)vmstat -a --- show virtual memoey (-a show active and inactive memory)
-  
+####System level command....
+23)uname--- which platform system is running.
+24)uptime --- knowing system details
+25)whoami ---current login username
+25)who --- show all activities login user
+26)which <file,folder name> ---show location
+27)id --- show user id
+28)sudo --- it's give super user permission
+29)shutdown --- system shutdown
+30)reboot --- system reboot 
+31)apt -- aplication pakage manager it's comman install pakages 
+####user & Group Management....
+32)useradd -m <new user name> ---add a new user in home
+33)passwd user_name ---create password of new user
+34)userdel user_name ---delete user
+35)su <user_name> ---swicth user
+36)groupadd <group_name> --- create a new group
+37)gpasswd -a <user_name> ---add user in group
+38)gpasswd -m <name multiple user separate by ","> ---add multiple user
+39)groupdel <group_name> ---delete group
+40)cat /etc/passwd ---check user list
+41)cat /etc/group ---check group list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
