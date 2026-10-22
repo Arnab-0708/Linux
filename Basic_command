@@ -1,0 +1,18 @@
+1) cd--change directory
+2) ls --list
+3) ls -a --show list with all hidden files
+4) ls -la --show details all files and hidden files 
+5) mkdir--make directory
+6) rm--remove file
+7) rm -r<directory name> -- remove file in directory recursively
+8) rm -rf <Directory name> --remove force fully 
+9) rmdir <directory name> - remove directory
+10) cat <file name> -- read all text in file 
+11) mv file1 file2_name/directory name --move file1 in file2 or directory
+12) cp source destination -- file copy source to destination
+13) wc <file name> --show number of line ,word byte
+14) ln -s <current_path/file_name> demo.txt -- create a soft link between main file to demo.txt.(note-if main file does deletedemo.txt will delete and if edit in demo.txt so main file will return with same msg) 
+15) ln <path/main file> new_file_name ---create a hard-link between main file to new_file...(if delete main file the new file will not be delete)
+16)diff <name file-1> <name file-2> --show differnt between file-1 and file-2
+#####Note----wc show diffrent multiple files and diff show diffrent only two filea
+17) 
