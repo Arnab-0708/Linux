@@ -40,7 +40,7 @@
 35)su <user_name> ---swicth user
 36)groupadd <group_name> --- create a new group
 37)gpasswd -a <user_name> ---add user in group
-38)gpasswd -m <name multiple user separate by ","> ---add multiple user
+38)gpasswd -M <name multiple user separate by ","> ---add multiple user
 39)groupdel <group_name> ---delete group
 40)cat /etc/passwd ---check user list
 41)cat /etc/group ---check group list
