@@ -44,6 +44,152 @@
 39)groupdel <group_name> ---delete group
 40)cat /etc/passwd ---check user list
 41)cat /etc/group ---check group list
+42)getent group ---open group list
+43)getent group grp_name --- show details of group
+###File permission...
+44)chmod ---change mode of files permission
+44)chown ---change ownership 
+45)chgrp --- change group
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+###compress command 
+46)zip -r <newfile.zip> folder name ----compress the folder newfile.zip
+47)unzip newfile.zip ----extract file
+48)tar -cvzf file name ----compress file (if unzip use -xvzf)
+
 
 
 
